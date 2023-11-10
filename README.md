@@ -1,5 +1,6 @@
 # Merge-conflict-Debugger
 
+listener.py
 Description: This Python script serves as the listener component of your Git Bash terminal monitoring and conflict resolution application. It actively listens to the output of the Git Bash terminal, scans it for specific conditions or patterns (e.g., error messages), and takes appropriate actions based on what it detects.
 
 
