@@ -1,2 +1,3 @@
 # Merge-conflict-Debugger
 This tool is build to solve git merge conflicts while working with github branches. the project is currently in a development state...
+More info on the master branch
